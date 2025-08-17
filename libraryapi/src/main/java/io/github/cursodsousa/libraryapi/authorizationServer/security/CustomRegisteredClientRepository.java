@@ -1,6 +1,6 @@
 package io.github.cursodsousa.libraryapi.authorizationServer.security;
 
-import io.github.cursodsousa.libraryapi.service.ClientService;
+import io.github.cursodsousa.libraryapi.authorizationServer.client.ClientService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.oauth2.core.AuthorizationGrantType;
 import org.springframework.security.oauth2.core.ClientAuthenticationMethod;
